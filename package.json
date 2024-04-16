@@ -2,7 +2,7 @@
   "name": "newapp",
   "main": "expo-router/entry",
   "version": "1.0.0",
-  "scripts": {
+   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
@@ -39,4 +39,6 @@
     "typescript": "^5.1.3"
   },
   "private": true
+  
+  
 }
